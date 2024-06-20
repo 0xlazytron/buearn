@@ -1,7 +1,7 @@
 
 # 🌱 EarthSeeds Smart Contract Audit Report
 
-![EarthSeeds Background](https://example.com/background-image.jpg)
+![EarthSeeds Background](https://ipfs.filebase.io/ipfs/QmdSS7hEH64cYf3V1m91gaLjmCuhMNT27SbY6TJDaBTyBX/source.png)
 
 ## 🌟 Introduction
 
